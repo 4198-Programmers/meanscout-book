@@ -1,0 +1,6 @@
+[book]
+authors = ["Aiden"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Meanscout Documentation"
