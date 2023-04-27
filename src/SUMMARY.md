@@ -1,8 +1,8 @@
 # Summary
 
-- [Starting Off](./starting_off.md)
-    - [How this started](./how_this_started.md)
-    - [Installation](./installation.md)
+- [Starting Off](./intro/starting_off.md)
+    - [How this started](./intro/how_this_started.md)
+    - [Installation](./intro/installation.md)
 
 ---
 
