@@ -10,6 +10,10 @@ title = "Meanscout Documentation"
 [preprocessor.catppuccin]
 assets_version = "0.1.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
 
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
+
 [output]
 
 [output.html]
@@ -17,5 +21,5 @@ default-theme = "macchiato"
 preferred-dark-theme = "macchiato"
 git-repository-url = "https://github.com/4198-Programmers/meanscout-book"
 git-repository-icon = "fa-github"
-input-404 = "not_found.md"
-additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-highlight.css"]
+input-404 = "404.md"
+additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-highlight.css", "././mdbook-admonish.css"]
