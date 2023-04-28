@@ -1,6 +1,6 @@
 # Summary
 
-- [Starting Off](./intro/starting_off.md)
+- [Starting Off](./intro/introduction.md)
     - [How this started](./intro/how_this_started.md)
     - [Installation](./intro/installation.md)
 
@@ -10,6 +10,8 @@
 
 - [Basics]()
     - [Endpoints]()
+    - [Best Practices]()
+    - [Errors]()
     - [Catchers]()
     - [Logging]()
 
