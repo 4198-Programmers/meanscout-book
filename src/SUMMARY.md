@@ -1,10 +1,12 @@
 # Summary
+# Introduction
 
-- [Starting Off](./intro/introduction.md)
+- [Getting started](./intro/introduction.md)
     - [How this started](./intro/how_this_started.md)
     - [Installation](./intro/installation.md)
 
 ---
+# The nitty gritty
 
 - [More in depth stuff](./in_depth/in_depth.md)
 
@@ -15,4 +17,6 @@
     - [Catchers]()
     - [Logging]()
 
-- [Yeah]()
+---
+
+[Contributors](./contributors.md)
