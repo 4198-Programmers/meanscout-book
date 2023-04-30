@@ -1,7 +1,9 @@
 # Summary
-# Introduction
 
-- [Getting started](./intro/introduction.md)
+[Introduction](./intro/introduction.md)
+# Beginning guide
+
+- [Getting started](./intro/getting_started.md)
     - [How this started](./intro/how_this_started.md)
     - [Installation](./intro/installation.md)
 
