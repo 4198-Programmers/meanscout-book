@@ -12,12 +12,14 @@
 
 - [More in depth stuff](./in_depth/in_depth.md)
 
-- [Basics]()
+- [Basics](./in_depth/basics.md)
     - [Endpoints]()
     - [Best Practices]()
     - [Errors]()
     - [Catchers]()
     - [Logging]()
+    - [Data Management]()
+- [Examples]()
 
 ---
 
