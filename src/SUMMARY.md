@@ -10,10 +10,9 @@
 ---
 # The nitty gritty
 
-- [More in depth stuff](./in_depth/in_depth.md)
+- [More in depth stuff](./in_depth.md)
 
-- [Basics](./in_depth/basics.md)
-    - [Endpoints]()
+- [API Things](./api/api_things.md)
     - [Best Practices]()
     - [Errors]()
     - [Catchers]()
