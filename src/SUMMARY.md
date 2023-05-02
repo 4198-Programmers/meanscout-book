@@ -21,6 +21,7 @@
     - [Data Management]()
 - [Examples]()
 
+- [Meanscout Client]()
 ---
 
 [Contributors](./contributors.md)
