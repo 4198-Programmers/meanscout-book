@@ -13,6 +13,7 @@
 - [More in depth stuff](./in_depth.md)
 
 - [API Things](./api/api_things.md)
+    - [Endpoints](./api/endpoints.md)
     - [Best Practices]()
     - [Errors]()
     - [Catchers]()
