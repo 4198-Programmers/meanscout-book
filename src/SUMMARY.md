@@ -9,7 +9,7 @@
 - [Using Meanscout](./client/meanscout.md)
 
 ---
-# The nitty gritty
+# Behind the scenes
 
 - [More in depth stuff](./in_depth.md)
 
