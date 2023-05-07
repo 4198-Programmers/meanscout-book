@@ -16,7 +16,7 @@
 - [API Things](./api/api_things.md)
     - [Endpoints](./api/endpoints.md)
     - [Best Practices]()
-    - [Errors]()
+    - [Errors](./api/errors.md)
     - [Catchers]()
     - [Logging]()
     - [Data Management]()
