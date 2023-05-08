@@ -7,6 +7,7 @@
     - [How this started](./intro/how_this_started.md)
     - [Installation](./intro/installation.md)
 - [Using Meanscout](./client/meanscout.md)
+    - [Types of Metrics](./client/metrics.md)
 
 ---
 # Behind the scenes
