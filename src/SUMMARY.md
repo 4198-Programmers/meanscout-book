@@ -20,10 +20,12 @@
     - [Errors](./api/errors.md)
     - [Catchers]()
     - [Logging]()
-    - [Data Management]()
+    - [Data Management](./api/data_management.md)
 - [Examples]()
 
 - [Meanscout Client]()
+
+- [Common Mistakes]()
 ---
 
 [Contributors](./contributors.md)
