@@ -7,3 +7,4 @@ First navigate to the menu button on the top left, in this menu you must change 
 2. Event passcode - this is a unique password we will tell you at the event it should be noted that the passcode changes with every event.
 
 3. Name - literally just a field for your name.
+
