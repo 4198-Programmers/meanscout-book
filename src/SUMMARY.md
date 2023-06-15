@@ -20,6 +20,8 @@
     - [Errors](./api/errors.md)
     - [Catchers]()
     - [Logging]()
+    - [Graphs](./api/graphs.md)
+        - [Making your own](./api/graphs_making_your_own.md)
     - [Data Management](./api/data_management.md)
 - [Examples]()
 
