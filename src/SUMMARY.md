@@ -14,14 +14,11 @@
 
 - [More in depth stuff](./in_depth.md)
 
-- [API Things](./api/api_things.md)
+- [Network API](./api/api_things.md)
     - [Endpoints](./api/endpoints.md)
     - [Best Practices]()
     - [Errors](./api/errors.md)
-    - [Catchers]()
     - [Logging]()
-    - [Graphs](./api/graphs.md)
-        - [Making your own](./api/graphs_making_your_own.md)
     - [Data Management](./api/data_management.md)
 - [Examples]()
 
